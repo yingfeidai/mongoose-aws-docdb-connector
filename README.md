@@ -1,0 +1,1 @@
+# mongoose-aws-docdb-connector
